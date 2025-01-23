@@ -6,10 +6,10 @@ const Navbar = () => {
     return (
         <nav className='navbar'>
           <ul className='navbar-links'>
-            <li><a href='#about'>About Me</a></li>
-            <li><a href='#projects'>Projects</a></li>
-            <li><a href='#skills'>Skills</a></li>
-            <li><a href='#contact'>Contact</a></li>
+            <li><a href='#about'>HOME</a></li>
+            <li><a href='#projects'>PROJECTS</a></li>
+            <li><a href='#skills'>SKILLS</a></li>
+            <li><a href='#contact'>CONTACT</a></li>
           </ul>
         </nav>
     );

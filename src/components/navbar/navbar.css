@@ -1,23 +1,26 @@
+body{
+    margin: 0;
+}
 .navbar {
+
+    height: 10vh;
     display: flex;
-    justify-content: space-between;
     align-items: center;
     padding: 10px 20px;
-    background: rgba(0, 0, 0, 0.8); /* Fondo con transparencia */
-    position: sticky;
-    top: 0;
-    z-index: 1000;
+    background:#2d2e35; /* Fondo con transparencia */
   }
 
   .navbar-links{
-    list-style: none;
-    margin: 0;
-    padding: 0;
+    width: 100%;
     display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin: 100px;
+    padding: 0;
   }
 
   .navbar-links li {
-    margin-left: 20px;
+  
   }
 
   .navbar-links a {

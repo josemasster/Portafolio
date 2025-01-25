@@ -2,8 +2,7 @@ body{
     margin: 0;
 }
 .navbar {
-
-    height: 10vh;
+    height: 8vh;
     display: flex;
     align-items: center;
     padding: 10px 20px;

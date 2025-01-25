@@ -1,4 +1,33 @@
 .content{
     width: 90%;
+    display: flex;
+    margin-top: 50px;
+    
+}
+.columnas {
+    margin: 0;
+    width: 33.3%;
+    padding: 40px;
     border-style: dashed;
+}
+.perfil{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.name{
+    margin:0px;
+    font-size:xx-large;
+}
+.carrera{
+    margin: 0px;
+}
+.aboutme{
+    margin-top: 80px;
+}
+.contact{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
 }

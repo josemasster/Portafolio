@@ -2,6 +2,7 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './about.css'
 import Josemasster from '../../assets/josemasster.jpeg';
+import Experience from './experience/experience';
 
 const AboutMe = () => {
     return (
@@ -26,7 +27,9 @@ const AboutMe = () => {
                 <button>Github</button>
                 <button>Correo</button>
             </div>
+            <Experience/>
         </section>
+
 
 
     );

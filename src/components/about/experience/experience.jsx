@@ -5,7 +5,10 @@ import './experience.css'
 const Experience = ()=>{
 return(
     <section>
-        <h1>Experiencia</h1>
+        <h1>Experienci Laboral</h1>
+        <div>
+            Seccion de projects
+        </div>
     </section>
 )
 }

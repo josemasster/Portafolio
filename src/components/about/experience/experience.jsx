@@ -8,6 +8,8 @@ return(
         <h1>Experienci Laboral</h1>
         <div>
             Seccion de projects
+            necesito empezar a trabajart
+            
         </div>
     </section>
 )
